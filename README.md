@@ -56,4 +56,4 @@ If you find this tool useful, consider supporting the development or joining the
 
 ---
 
-Built with ❤️ by [Matt Bacon](https://github.com/mattbaconz).
+Built with ❤️ by [mattbaconz](https://github.com/mattbaconz).
