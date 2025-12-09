@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output
+bin/
+dist/
+
+# IDE
+.idea/
+.vscode/
+
+# Config
+.jswitch/
+config.json
